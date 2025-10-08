@@ -9,21 +9,21 @@
   topic: 2 Wolves
   speakers: 
     - name: Ashley Williams
-      twitter: 
-      social: 
+      twitter: https://twitter.com/ag_dubs
+      social: https://bsky.app/profile/agdubs.bsky.social
   tag: 
   monkvideo: 
   video: https://www.youtube.com/watch?v=gR2hjbh0RUk&list=PLvsKqlNNP3R8JKE97pwewsDmZdcO5MEWV&index=1
   slides: 
   description: Really thinking about the choices to be the better wolf.
   threads: 
-    - 
+    - https://twitter.com/IAmJerdog/status/1841897815368216727
 -
   id:  
   topic: The Values Of Work
   speakers: 
     - name: Jenny Zhang
-      twitter: 
+      twitter: https://twitter.com/phirephoenix
       social: 
   tag: 
   monkvideo: 
@@ -31,7 +31,7 @@
   slides: 
   description: Values define organizations.
   threads: 
-    - 
+    - https://twitter.com/IAmJerdog/status/1841868596265328810
 -
   id:  
   topic: Let The Robots Do It
@@ -45,13 +45,13 @@
   slides: 
   description: Home gardening and watering with automation and environmental savings.
   threads: 
-    - 
+    - https://twitter.com/IAmJerdog/status/1842223956859797781
 -
   id:  
   topic: Top Of The Mourning To You
   speakers: 
     - name: Eamon Ryan
-      twitter: 
+      twitter: https://twitter.com/cloudycelt
       social: 
   tag: 
   monkvideo: 
@@ -59,7 +59,7 @@
   slides: 
   description: 
   threads: 
-    - 
+    - https://twitter.com/IAmJerdog/status/1841853214192247237
 -
   id:  
   topic: Death And Grief
@@ -73,52 +73,53 @@
   slides: 
   description: Personal stories about lives at the end.
   threads: 
-    - 
+    - https://twitter.com/IAmJerdog/status/1841853179584971155
 -
   id:  
   topic: Code Review Anxiety
   speakers: 
     - name: Carol Lee
       twitter: 
-      social: 
+      social: https://bsky.app/profile/cslee.bsky.social
   tag: 
   monkvideo: 
   video: https://www.youtube.com/watch?v=LOW0ZZsh1BE&list=PLvsKqlNNP3R8JKE97pwewsDmZdcO5MEWV&index=6
   slides: 
   description: Anxiety and all the places it appears.
   threads: 
-    - 
+    - https://bsky.app/profile/stu.bsky.social/post/3l5mk4d6fhz2i
+    - https://twitter.com/IAmJerdog/status/1841859223270940969
 -
   id:  
   topic: An Obvious Statement About Open Source
   speakers: 
     - name: Christopher Neugebauer
-      twitter: 
-      social: 
+      twitter: https://twitter.com/chrisjrn
+      social: https://bsky.app/profile/chrisjrn.fyi
   tag: 
   monkvideo: 
   video: https://www.youtube.com/watch?v=bf_6EVTlZOY&list=PLvsKqlNNP3R8JKE97pwewsDmZdcO5MEWV&index=7&t=465s
   slides: 
   description: Open source culture, where it came from - and where it needs to improve.
   threads: 
-    - 
+    - https://twitter.com/IAmJerdog/status/1841910836941467939
 -
   id:  
   topic: Agree To Disagree
   speakers: 
     - name: Amanda Casari
-      twitter: 
-      social: 
+      twitter: https://twitter.com/amcasari
+      social: https://hachyderm.io/web/@amcasari
     - name: Julia Ferriaoli
-      twitter: 
-      social: 
+      twitter: https://twitter.com/juliaferraioli
+      social: https://bsky.app/profile/juliaferraioli.com
   tag: 
   monkvideo: 
   video: https://www.youtube.com/watch?v=rnLGyFR4aIY&list=PLvsKqlNNP3R8JKE97pwewsDmZdcO5MEWV&index=8
   slides: 
   description: An inspirational sing-along about getting along.
   threads: 
-    - 
+    - https://twitter.com/IAmJerdog/status/1842215007251017779
 -
   id:  
   topic: The 2024 Monktoberfest Wrapup

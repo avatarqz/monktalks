@@ -16,7 +16,7 @@ Past speakers at Monktoberfest have been so inspiring, I decided to make a list 
 
 ### Monktoberfest Talks By Year
 
-- 2025 - more insightful talks on the human condition. 
+- 2025 - more insightful talks on the human condition
 - <a href="monktoberfest/2024">2024 - Life, death, and working together</a>
 - <a href="monktoberfest/2023">2023 - There is no 'my' in team</a>
 - <a href="monktoberfest/2022">2022 - Personal Stories</a>
